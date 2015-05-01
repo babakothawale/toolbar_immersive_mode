@@ -1,2 +1,2 @@
 # toolbar_immersive_mode
-A sample to overlay Toolbar when used with ActionBar 
+A Overlay Toolbar sample to use with ActionBar 
